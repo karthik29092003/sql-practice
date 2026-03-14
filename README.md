@@ -1,2 +1,2 @@
 # sql-practice
-SQL practice queries for Data Engineering — Northwind dataset
+SQL practice queries — Northwind dataset
